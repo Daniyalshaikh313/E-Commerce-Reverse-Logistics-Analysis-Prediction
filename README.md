@@ -21,6 +21,10 @@ Analyze return trends, predict high-risk return items, and optimize the reverse 
 
 ## 📊 Exploratory Data Analysis (EDA)
 ### Key Insights:
+![p](https://github.com/user-attachments/assets/fdaf7b4f-d7d0-4fb2-bd35-275b823408ae)
+![p2](https://github.com/user-attachments/assets/c3fe5ff3-c854-456a-be8d-bc6449195f7b)
+![p1](https://github.com/user-attachments/assets/a46108e7-991e-43c3-8ad8-03883daa5ff8)
+
 - **Return Rate by Region:** High returns in North America and Europe.
 - **Top Products with High Return Rates:** High-value and defective items.
 - **Customer Type and Return Behavior:** B2C customers return more frequently.
